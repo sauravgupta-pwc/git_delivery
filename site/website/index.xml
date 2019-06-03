@@ -11,10 +11,10 @@
 	<folder-name/>
 	<createdDate>2017-1-31T16:18:14.000Z</createdDate>
 	<createdDate_dt>2017-1-31T16:18:14.000Z</createdDate_dt>
-	<lastModifiedDate>2019-06-03T12:12:26.364Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-06-03T12:12:26.364Z</lastModifiedDate_dt>
+	<lastModifiedDate>2019-06-03T14:31:35.142Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-06-03T14:31:35.142Z</lastModifiedDate_dt>
 	<title>Editorial</title>
-	<hero_text>&lt;p&gt;edited again by saurav on 03-06-2019 at 5:42pm&lt;/p&gt;</hero_text>
+	<hero_text>&lt;p&gt;edited again by saurav on 03-06-2019 at 9:02pm&lt;/p&gt;</hero_text>
 	<hero_title>&lt;h1&gt;&lt;span&gt;Hi, I&amp;rsquo;m Editorial&lt;/span&gt;&lt;/h1&gt;
 &lt;h3&gt;&lt;span style="font-size: 1.5em;"&gt;by HTML5 UP&lt;/span&gt;&lt;/h3&gt;</hero_title>
 	<features item-list="true">	<item>	<value>Two</value>
@@ -27,7 +27,7 @@
 	<disableFlattening>false</disableFlattening>
 	</item></features>
 	<header item-list="true"/>
-	<hero_image>/static-assets/images/castle-pic.jpg</hero_image>
+	<hero_image>/static-assets/images/streetView.jpg</hero_image>
 	<left-rail item-list="true">	<item>	<key>/site/components/left-rails/left-rail-with-latest-articles.xml</key>
 	<value>Left Rail with Latest Articles</value>
 	<include>/site/components/left-rails/left-rail-with-latest-articles.xml</include>
